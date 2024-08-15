@@ -1,0 +1,111 @@
+/* Your CSS file */
+.query1-container {
+    background-image: url('D:\sem5\PROJECT\front-end\src\pages\query1.jpg'); /* Set the path to your background image */
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+  }
+  /* Your CSS file */
+
+
+  /* Your CSS file */
+.query2-container {
+  background-image: url('D:\sem5\PROJECT\front-end\src\pages\query2.jpg'); /* Set the path to your background image */
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+}
+/* Your CSS file */
+
+.query3-container {
+  background-image: url('D:\sem5\PROJECT\front-end\src\pages\query3.jpg'); /* Set the path to your background image */
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+}
+
+.query4-container {
+  background-image: url('D:\sem5\PROJECT\front-end\src\pages\query4.jpg'); /* Set the path to your background image */
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+}
+
+.form5 {
+  color:aliceblue;
+  background-image: url('D:\sem5\PROJECT\front-end\src\pages\query5.jpg'); /* Set the path to your background image */
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+}
+
+
+.form7 {
+  color:aliceblue;
+  background-image: url('D:\sem5\PROJECT\front-end\src\pages\query4.jpg'); /* Set the path to your background image */
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+}
+
+.selectcity{
+  color:black;
+  font-weight: bold;
+
+}
+
+.h2{
+  color:black
+}
+
+.h2{
+  color:black
+}
+.form6 {
+  color:aliceblue;
+  background-image: url('D:\sem5\PROJECT\front-end\src\pages\query4.jpg'); /* Set the path to your background image */
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+}

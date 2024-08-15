@@ -1,0 +1,47 @@
+.form-container{
+    display : flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;    
+}
+
+.Login-form{
+    border: 1px solid gray;
+    padding :30px;
+    width : 20%;
+}
+
+
+.Login-form {
+    background-color:rgb(97, 84, 84);
+    font-weight: bolder;
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+   opacity: 2.0;
+   
+   
+  }
+  
+  .form-container {
+    background-image: url('D:\sem5\PROJECT\front-end\src\pages\query3.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    min-height: 100vh; /* Makes sure the background covers the entire viewport height */
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 20px; /* Add padding to center the form */
+  }
+
+  .ms-2{
+    color:black
+  }
+
+  .btn-primary{
+    color:gray
+  }

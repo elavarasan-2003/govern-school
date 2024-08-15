@@ -1,0 +1,155 @@
+/* HomeStyles.css */
+
+/* Body style to set the background color to black */
+.body {
+  background-color: rgb(154, 144, 118);
+  background-image: url('D:\sem5\PROJECT\front-end\src\pages\home.jpg'); /* Change the background color to black */
+  background-size: cover;
+  background-position: center;
+  color: gray; /* Set text color to gray for better contrast */
+  font-family: Arial, sans-serif; /* Set font-family as needed */
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+}
+
+  .booddo
+  {
+    position: absolute;
+    top:680px;
+    left: 250px;
+  }
+  
+  .booddo p {
+    font-size: large;
+    font-family: Arial, sans-serif;
+    color: rgb(63, 45, 34);
+    font-style: oblique;
+    font-weight: bold; /* Make the text bold */
+    text-align: left;
+}
+.container {
+  display: flex;
+  justify-content: flex-start; /* Move the child element to the left side */
+}
+
+
+
+
+
+.booddo p {
+  float: right;
+}
+
+
+  
+  /* Style for the header at the top */
+  .header {
+    color: #0e0a09;
+    background-color: #82898f;
+    padding: 20px;
+    text-align: center; /* Center the text horizontally */
+    font-family: 'Playfair Display', serif;
+    text-shadow: 1px 1px 2px rgba(247, 242, 242, 0.2);
+    border-bottom: 16px solid rgb(12, 4, 4); /* Solid border at the bottom */
+    margin-bottom: 20px;
+    height: 10vh;
+}
+
+  .image-container1 {
+    background-image: url('D:\sem5\PROJECT\front-end\src\pages\emblem.jpg'); /* Adjust the path to your image */
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    position: absolute;
+    height: 50vh;
+    width: 480px;
+    right: 600px;
+    top: 200px;
+    border-radius: 100px;
+    border: 10px solid rgb(3, 0, 0);
+}
+
+  
+  /* Style for the header text */
+  .header-text {
+    font-size: 40px;
+  }
+  
+  .image-container {
+    background-image: url('D:\sem5\PROJECT\front-end\src\pages\girls.jpg'); /* Set the background image for .image-container */
+    background-size: cover; /* Adjust the background size as needed */
+    display: flex;
+    position: absolute;
+    height: 50vh;
+    width: 480px;
+    right: 50px;
+    top: 200px;
+    border-radius: 100px;
+    border: 10px solid rgb(14, 14, 14); /* Center the content vertically */
+  }
+  
+  /* Style for the first (centered) image */
+  .centered-image {
+    max-width: 50%; /* Adjust the width as needed */
+    height: auto;
+  }
+  
+  /* Style for the second (right) image */
+  .right-image {
+    max-width: 50%; /* Adjust the width as needed */
+    height: auto;
+  }
+  
+  .sidebar111 p {
+    font-weight: bold;
+    font-style: italic;
+    color: #cfa59c; /* Change to the color of your choice */
+  }
+  
+  .sidebar111 {
+    background-color: rgb(142, 158, 165);
+    color: rgb(22, 2, 2);
+    width: 320px;
+    padding: 18px 10px;
+    display: flex;
+    flex-direction: column;
+    font-size: 20px;
+    position: absolute;
+    right: 0; /* Adjust the position to place it on the right side */
+    bottom: -5px; /* Adjust the position to avoid overlap with the header */
+    border-top: 2px solid rgb(42, 6, 6);
+    height: 80vh;
+    z-index: 1;
+}
+
+  /* Style for link containers in the sidebar */
+  .link-container {
+    font-style: oblique;
+    margin: 10px 0;
+    border-bottom: 1px solid rgb(160, 14, 14);
+    transition: background-color 0.2s;
+    width: 90%;
+    text-align:right;
+    padding: 10px;
+  }
+
+  .link-container10 p{
+    color:black;
+    text-align:right;
+  }
+  
+  /* Hover effect for link containers */
+  .link-container:hover {
+    background-color: rgb(191, 174, 174);
+  }
+  
+  /* Style for sidebar links */
+  .sidebar-link {
+    text-decoration: wavy;
+    color: rgb(24, 22, 22);
+    font-family: 'Your Custom Font', sans-serif;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.2);
+    width: 100px;
+  }
+  

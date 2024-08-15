@@ -1,0 +1,108 @@
+
+.Register-form {
+  background-color:white;
+  font-weight: bolder;
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+ opacity: 0.8;
+ 
+ 
+}
+
+.register-form-container {
+  background-image: url('D:\sem5\PROJECT\front-end\src\pages\registerimage.jpg');
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+  min-height: 100vh; /* Makes sure the background covers the entire viewport height */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 20px; /* Add padding to center the form */
+}
+
+/* Additional styling for the form if needed */
+
+.Register-form {
+  color:#fff;
+  position: relative; /* Set a relative position for the form container */
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 2px 4px rgba(13, 2, 2, 0.92);
+  width: 800px; /* Adjust the width as needed */
+  margin: 40px;
+}
+
+
+
+  
+/* RegisterStyles.css */
+/* ... (other styles) */
+
+/* Center text with custom styles */
+.text-center {
+  text-align: center;
+  font-weight: bold; /* Make the text bold */
+  color: rgb(11, 6, 6); /* Set the text color to black */
+  font-size: 40px; /* Adjust the font size as needed */
+  font-style: italic; /* Add an italic font style */
+}
+
+/* RegisterStyles.css */
+/* ... (other styles) */
+
+/* Create a pseudo-element for the blurred background */
+
+
+/* Center text with custom styles */
+
+
+/* ... (other styles) */
+
+
+/* ... (other styles) */
+
+  
+  /* Button styles */
+  .btn {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .btn-primary {
+    background-color: #007bff;
+  }
+  
+  .btn-primary:hover {
+    background-color: #0056b3;
+  }
+  
+  /* Checkbox styles */
+  /* Customize the appearance of checkboxes if needed */
+  
+  /* Additional styles for the link */
+  .ms-2 {
+    margin-left: 10px;
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  .ms-2:hover {
+    text-decoration: underline;
+  }
+  
+  /* Add horizontal scrolling to the form container */
+
+  
+  /* Ensure the form container is wide enough to scroll horizontally */
+
+  
